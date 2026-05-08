@@ -67,7 +67,7 @@ Aplicación práctica de marcos de trabajo ágiles como **SCRUM** para la gesti�
 <a href="mailto:Javier.angelgd@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar por Email" />
 </a>
-<a href="TU_ENLACE_A_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/javiergutierrez-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
