@@ -47,8 +47,8 @@ Me considero un profesional versátil y autodidacta, impulsado por el diseño de
 
 ### 🔭 Proyectos Destacados
 
-* 🔧 **Fixon:** [Agrega aquí una breve descripción sobre qué es Fixon, qué problema resuelve y las tecnologías principales que utilizaste para desarrollarlo].
-* ⚙️ **Ansible AWS Collection (`my_aws_collection`):** Creador de una colección de Ansible especializada en la extracción y monitoreo de métricas de rendimiento (CPU, RAM, disco) para instancias EC2 en AWS. Puedes ver mis colecciones publicadas en [Ansible Galaxy - Glass](https://galaxy.ansible.com/ui/namespaces/glass/).
+* 🔧 **Fixon:** Sistema centralizado para encontrar todo lo que necesitas para tu vehiculo.
+* ⚙️ **Ansible AWS Collection (`ec2_ssm_metrics`):** Creador de una colección de Ansible especializada en la extracción y monitoreo de métricas de rendimiento (CPU, RAM, disco) para instancias EC2 en AWS. Puedes ver mis colecciones publicadas en [Ansible Galaxy - Glass](https://galaxy.ansible.com/ui/namespaces/glass/).
 * 💡 **Automatización IoT & DIY:** Diseño de sistemas automatizados físicos, incluyendo proyectos de construcción con dispensadores de agua automáticos accionados por gravedad.
 
 ### 🏆 Certificaciones
