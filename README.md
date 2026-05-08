@@ -47,9 +47,8 @@ Me considero un profesional versátil y autodidacta, impulsado por el diseño de
 
 ### 🔭 Proyectos Destacados
 
-* 🚚 **Dromo:** Construyendo un sistema escalable para la gestión logística de transporte y fletes, integrando una aplicación móvil (React Native) con una robusta API backend (FastAPI + SQLModel).
-* 🔍 **PartnerCode:** Desarrollando un motor de descubrimiento de tráfico seguro y optimizado para conectar influencers con marcas y negocios.
-* ⚙️ **Ansible AWS Collection (`my_aws_collection`):** Creador de una colección de Ansible especializada en la extracción y monitoreo de métricas de rendimiento (CPU, RAM, disco) para instancias EC2 en AWS.
+* 🔧 **Fixon:** [Agrega aquí una breve descripción sobre qué es Fixon, qué problema resuelve y las tecnologías principales que utilizaste para desarrollarlo].
+* ⚙️ **Ansible AWS Collection (`my_aws_collection`):** Creador de una colección de Ansible especializada en la extracción y monitoreo de métricas de rendimiento (CPU, RAM, disco) para instancias EC2 en AWS. Puedes ver mis colecciones publicadas en [Ansible Galaxy - Glass](https://galaxy.ansible.com/ui/namespaces/glass/).
 * 💡 **Automatización IoT & DIY:** Diseño de sistemas automatizados físicos, incluyendo proyectos de construcción con dispensadores de agua automáticos accionados por gravedad.
 
 ### 🏆 Certificaciones
