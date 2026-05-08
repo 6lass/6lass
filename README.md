@@ -6,16 +6,37 @@ Me considero un profesional versátil y autodidacta, impulsado por el diseño de
 
 ### 🛠️ Tech Stack y Herramientas
 
-**Lenguajes y Frameworks**
+**Lenguajes de Programación y Scripting**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,django,fastapi,nestjs,dotnet,react,nextjs,angular,vite" />
+  <img src="https://skillicons.dev/icons?i=python,cs,java,html,css,bash,powershell" />
 </a>
 
-**DevOps, Cloud, Bases de Datos y SO**
+**Frameworks y Librerías**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,ansible,postgres,linux,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nestjs,dotnet,react,nextjs,angular,vue,vite,tailwind" />
+</a>
+
+**Bases de Datos**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</a>
+<br>
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**DevOps, Cloud y Sistemas Operativos**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,openshift,ansible,linux,ubuntu,redhat,windows" />
+</a>
+
+**Herramientas, Editores y Entornos**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,postman,vscode,visualstudio,sublime,autocad" />
 </a>
 
 **Análisis de Datos y BI**
@@ -45,6 +66,9 @@ Aplicación práctica de marcos de trabajo ágiles como **SCRUM** para la gesti�
 
 <a href="mailto:Javier.angelgd@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar por Email" />
+</a>
+<a href="TU_ENLACE_A_LINKEDIN_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 🌍 *Santiago, Chile*
