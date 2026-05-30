@@ -69,5 +69,8 @@ Aplicación práctica de marcos de trabajo ágiles como **SCRUM** para la gesti�
 <a href="https://www.linkedin.com/in/javiergutierrez-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://galaxy.ansible.com/ui/namespaces/glass/">
+  <img src="https://img.shields.io/badge/Ansible%20Galaxy-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Galaxy" />
+</a>
 
 🌍 *Santiago, Chile*
